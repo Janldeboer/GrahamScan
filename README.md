@@ -5,9 +5,5 @@ For more information, check out https://en.wikipedia.org/wiki/Graham_scan
 This was a project for my computer science studies at the university of constance.
 
 # Usage
-This implementation reads out list of coordinates, given in the following pattern:\n
-x,y\n
-x,y\n
-x,y\n
-...\n
+This implementation reads out list of coordinate. One pair per line, comma seperated.
 The points needed for the convex case are printed to the console.
