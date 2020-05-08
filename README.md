@@ -4,7 +4,7 @@ The Graham Scan is an algorithm that finds the convex for a given set of points.
 For more information, check out https://en.wikipedia.org/wiki/Graham_scan 
 This was a project for my computer science studies at the university of constance.
 
-#Usage
+# Usage
 This implementation reads out list of coordinates, given in the following pattern:
 x,y
 x,y
